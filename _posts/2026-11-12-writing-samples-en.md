@@ -2,6 +2,7 @@
 lang: en
 title: Writing samples
 categories: ["article"]
+permalink: "/posts/writing-samples"
 ---
 
 ## Writing articles on spec

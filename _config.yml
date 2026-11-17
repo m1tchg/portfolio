@@ -236,7 +236,7 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-languages: ["en", "ja"]
+languages: ["en", "ja-JP"]
 default_lang: "en"
 exclude_from_localization: ["javascript", "images", "css", "public", "sitemap", "CNAME"]
 parallel_localization: true
