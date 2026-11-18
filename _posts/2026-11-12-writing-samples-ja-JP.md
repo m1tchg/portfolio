@@ -13,7 +13,7 @@ permalink: "/posts/case-studies"
 
 ## 再利用可能コンテンツでドキュメント保守の混乱を整理
 
-300以上のSaaS、NoSQL、ビッグデータAPIのドキュメントの正確性とUXを担当しました。APIは絶えず変化するため、例えば[SQL to Slack](https://cdn.cdata.com/help/FCK/odbc/pg_table-channels.htm)の実行手順の詳細を維持しつつ、[Node.jsでのパラメータ化クエリ](https://cdn.cdata.com/help/FCK/odbc/pg_odbclangnodejsparams.htm)のようなコード例を同期させるには、体系的なアプローチが不可欠でした。
+300以上のSaaS、NoSQL、ビッグデータAPIのドキュメントの正確性とUXを担当しました。APIは絶えず変化するため、[SQL to Slack](https://cdn.cdata.com/help/FCK/odbc/pg_table-channels.htm)の実行手順の詳細維持や、[Node.jsでのパラメータ化クエリ](https://cdn.cdata.com/help/FCK/odbc/pg_odbclangnodejsparams.htm)のようなコード例の同期には、体系的なアプローチが不可欠でした。
 
 CDataの急速に拡大する製品ラインナップに対応するため、製品開発の一環としてドキュメントを作成しました。再利用可能コンテンツの作成とコード例の自動生成により、米国・中国・アルバニア・日本・インドのエンジニアリングチーム全体で、開発者が初稿を迅速に作成できるように支援しました。新しいデータソースのツールスイートをドキュメント化する際は、既存の任意のデータソースをテンプレートとして流用することができました。
 
