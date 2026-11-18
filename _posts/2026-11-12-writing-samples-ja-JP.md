@@ -1,8 +1,8 @@
 ---
 lang: "ja-JP"
-title: 筆サンプル
-categories: ["article"]
-permalink: "/posts/writing-samples"
+title: ケーススタディ
+categories: ["case studies"]
+permalink: "/posts/case-studies"
 ---
 
 ## 依頼なしでの記事執筆

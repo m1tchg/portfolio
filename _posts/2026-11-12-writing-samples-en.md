@@ -1,8 +1,8 @@
 ---
 lang: en
-title: Writing samples
+title: Case studies
 categories: ["article"]
-permalink: "/posts/writing-samples"
+permalink: "/posts/case-studies"
 ---
 
 ## Writing articles on spec
