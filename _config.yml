@@ -14,12 +14,17 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Mitch Graw's Portfolio # the main title
-
-tagline: Technical writing samples # it will display as the subtitle
-
-description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+seo_tags:
+  en:
+    title: Freelance Technical Writer | Mitch Graw # the main title
+    tagline: Technical writer portfolio # it will display as the subtitle
+    description: >- # used by seo meta and the atom feed
+      Technical writer. Selected client projects and case studies.
+  ja-JP:
+    title: フリーランス テクニカルライター | Mitch Graw # メインタイトル
+    tagline: テクニカルライター ポートフォリオ # サブタイトルとして表示
+    description: >- # SEOメタとAtomフィードで使用
+      テクニカルライター。クライアント案件・ケーススタディの厳選。
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
