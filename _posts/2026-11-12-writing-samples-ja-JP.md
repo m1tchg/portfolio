@@ -11,7 +11,7 @@ permalink: "/posts/case-studies"
 
 - [「Docs-as-Code」のフレームワークを改良し、日本語のフラッシュカードを作成しました](https://github.com/m1tchg/dev/blob/main/keigo-shift-harness/keigo-shift-harness.md)
 
-## 再利用可能コンテンツでドキュメント保守を効率化
+## 再利用可能コンテンツでドキュメント保守の混乱を整理
 
 300以上のSaaS、NoSQL、ビッグデータAPIのドキュメントの正確性とUXを担当しました。APIは絶えず変化するため、例えば[SQL to Slack](https://cdn.cdata.com/help/FCK/odbc/pg_table-channels.htm)の実行手順の詳細を維持しつつ、[Node.jsでのパラメータ化クエリ](https://cdn.cdata.com/help/FCK/odbc/pg_odbclangnodejsparams.htm)のようなコード例を同期させるには、体系的なアプローチが不可欠でした。
 
