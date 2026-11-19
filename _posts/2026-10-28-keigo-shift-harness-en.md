@@ -17,15 +17,7 @@ Read manga and write Python while you study Japanese:
 - Make effective flash cards.
 - Build a harness for content governance.
 
-I have to do the harness before the manga. But feel free to jump around the sections:
-
-- [Keigo? Business manga?](#keigo-business-manga)
-- [Design patterns reworked](#design%20patterns%20reworked)
-- [Mining keigo shifts from real life](#mining%20keigo%20shifts%20from%20real%20life)
-- [Mining flash cards from business manga](#mining%20flash%20cards%20from%20business%20manga)
-- [The first card](#the%20first%20card)
-- [The schema](#the%20schema)
-- [Priming your recognition for immersion learning](#priming%20your%20recognition%20for%20immersion%20learning)
+I have to do the harness before the manga. But feel free to jump around the sections.
 
 ## Keigo? Business manga?
 
@@ -67,18 +59,20 @@ Loop engineering design patterns map onto this project one to one:
 
 We exchange business cards, each using humble language. There's a warmth to tracking the set phrases, stages together.
 
-It's [*wakimae*](http://www.sachikoide.com/OntheNotionofWakimae.pdf). Wakimae is a noun. You use it like, "That person has wakimae." 
+It's *wakimae*. Wakimae is a noun. You use it like, "That person has wakimae." 
 
 You can observe wakimae in how a speaker selects honorific grammar.
 Some textbooks give you two levers: humble and honorific language. Up, down. But native speakers cook up, index, their sense of place in five-dimensional space.
 
-Sachiko Ide lists the five axes:
+Linguist Sachiko Ide lists the five axes:
 
 - Status
 - Age
 - Power
 - Solidarity/familiarity
 - Formality of occasion or topic
+
+Check out her blog, http://sachikoide.com/bibliography/. Her English articles, like "On the Notion of Wakimae," are available for free.
 
 ## Mining flash cards from business manga
 
