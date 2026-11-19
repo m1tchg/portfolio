@@ -13,7 +13,9 @@ I'm writing articles for the Tokyo tech community:
 
 ## Organizing Maintenance Chaos with Reusable Content
 
-I owned the accuracy and UX of documentation that was as volatile as [300+ SaaS, NoSQL, and big data APIs](https://www.cdata.com/kb/help/). Slack is one example of an API in constant flux. It took a little magic to maintain gritty details on how to execute [SQL to Slack](https://cdn.cdata.com/help/FCK/odbc/pg_table-channels.htm), and then sync code examples like [parameterized queries in Node.js](https://cdn.cdata.com/help/FCK/odbc/pg_odbclangnodejsparams.htm). To keep up with CData’s rapidly expanding lineup, I built documentation as part of the product build. I wrote reusable content and generated code examples that accelerated developers’ first drafts across CData’s engineering teams in the US, China, Albania, Japan, and India. To document a suite of tools for a new data source, a developer could use any other data source as a template.
+I owned the accuracy and UX of documentation that was as volatile as [300+ SaaS, NoSQL, and big data APIs](https://www.cdata.com/kb/help/). Slack is one example of an API in constant flux. It took a little magic to maintain gritty details on how to execute [SQL to Slack](https://cdn.cdata.com/help/FCK/odbc/pg_table-channels.htm), and then sync code examples like [parameterized queries in Node.js](https://cdn.cdata.com/help/FCK/odbc/pg_odbclangnodejsparams.htm). 
+
+To keep up with CData’s rapidly expanding lineup, I built documentation as part of the product build. I wrote reusable content and generated code examples that accelerated developers’ first drafts across CData’s engineering teams in the US, China, Albania, Japan, and India. To document a suite of tools for a new data source, a developer could use any other data source as a template.
 
 ## Implementing a New Documentation View for Asteria Warp
 
