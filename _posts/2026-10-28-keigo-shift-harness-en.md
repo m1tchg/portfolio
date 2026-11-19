@@ -1,7 +1,7 @@
 ---
 lang: en
 title: Manga mining harness
-categories: ["case studies"]
+categories: ["article"]
 permalink: "/posts/keigo-shift-harness"
 ---
 
