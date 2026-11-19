@@ -1,7 +1,7 @@
 ---
 lang: en
 title: Case studies
-categories: ["article"]
+categories: ["case studies"]
 permalink: "/posts/case-studies"
 ---
 
