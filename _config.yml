@@ -16,12 +16,12 @@ timezone:
 
 seo_tags:
   en:
-    title: Freelance Technical Writer | Mitch Graw # the main title
+    title: Mitch Graw # the main title
     tagline: Technical writer portfolio # it will display as the subtitle
     description: >- # used by seo meta and the atom feed
-      Technical writer. Selected client projects and case studies.
+      Check out my passion projects and case studies on technical writing, UX writing, and content engineering.
   ja-JP:
-    title: フリーランス テクニカルライター | Mitch Graw # メインタイトル
+    title: グロー　ミチ # メインタイトル
     tagline: テクニカルライター ポートフォリオ # サブタイトルとして表示
     description: >- # SEOメタとAtomフィードで使用
       テクニカルライター。クライアント案件・ケーススタディの厳選。
