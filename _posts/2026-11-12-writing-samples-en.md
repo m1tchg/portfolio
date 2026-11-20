@@ -9,7 +9,7 @@ permalink: "/posts/case-studies"
 
 I'm writing articles for the Tokyo tech community:
 
-- [I reworked a docs-as-code harness to mine Japanese flash cards](https://github.com/m1tchg/dev/blob/main/keigo-shift-harness/keigo-shift-harness.md)
+- [I reworked a docs-as-code harness to mine Japanese flash cards](https://m1tchg.github.io/portfolio/posts/keigo-shift-harness)
 
 ## Organizing Maintenance Chaos with Reusable Content
 

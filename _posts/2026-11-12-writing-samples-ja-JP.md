@@ -9,7 +9,7 @@ permalink: "/posts/case-studies"
 
 東京のテックコミュニティ向けに記事を書いています：
 
-- [「Docs-as-Code」のフレームワークを改良し、日本語のフラッシュカードを作成しました](https://github.com/m1tchg/dev/blob/main/keigo-shift-harness/keigo-shift-harness.md)
+- [「Docs-as-Code」のフレームワークを改良し、日本語のフラッシュカードを作成しました](https://m1tchg.github.io/portfolio/posts/keigo-shift-harness)
 
 ## 再利用可能コンテンツでドキュメント保守の混乱を整理
 
