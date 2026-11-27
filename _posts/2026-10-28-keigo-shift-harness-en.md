@@ -29,21 +29,24 @@ This article series uses *Angel Bank: Dragon Zakura Gaiden*. A recruiter named E
 
 Loop engineering design patterns map onto this project one to one:
 
-- **Schema design**
-  The schema is the contract for the content that the agent should output.
-
 - **Loop architecture**
-  One loop iteration passes through signal → edit → gate → re-measure.
-
-  The agent stops the loop when the signal says the edit worked.
+  One loop iteration passes through signal → edit → test gate → re-measure.
 
 - **Signal design**
   The agent proposes edits based on an analytics signal. In a docs-as-code environment, an agent might identify content gaps based on a signal like support ticket volume.
 
-  The analytics signal for a flash card is the difficulty score. Is it hard for me to remember this card? This metric comes from the FSRS spaced repetition algorithm. The LLM self-corrects based on the FSRS performance data.
+  The signal for a flash card is the difficulty score. Is it hard for me to remember this card? The difficulty score comes from the FSRS spaced repetition algorithm. 
 
 - **Gate design**
-  I'm still learning keigo, so I can't evaluate an edit. What form does the human gate take when the human can't verify the agent's work?
+  I split up the gate and re-measure steps. They're really an inner loop and outer loop. The gate validates constraints like schema compliance. This loop finishes in minutes to hours.
+
+  The re-measure step is the success check. The agent re-measures the card's FSRS difficulty score. Success is when the difficulty score drops. This outer loop sleeps and wakes around my practice schedule. 
+
+- **Schema design**
+  The schema shapes the output data. The schema complements the FSRS difficulty score. By itself, the FSRS difficulty score only tells you a card is hard. 
+
+  The schema fields break down why a card as hard into different dimensions. The dimensions compose a linguistic analysis. Later, the agent self-corrects its linguistic analysis.
+
 
 ## Mining keigo shifts from real life
 
